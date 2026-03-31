@@ -1,1 +1,2 @@
 # Noise-tools
+一个简单关于unity内使用的噪声生成工具,支持Perlin,Simplex,Value,Voronoi,以及FBM噪声(目前仅对Perlin噪声使用),同时支持生成2D纹理(.png格式),以及Texture3D纹理,注意:关于FBM的3D噪声,生成速度可能较慢,通常需要15分钟左右,请耐心等待.配合Package Manager中的burst使用. A simple noise generation tool for Unity, supporting Perlin, Simplex, Value, Voronoi, and FBM noise (currently only for Perlin noise). It also supports generating 2D textures (.png format) and Texture3D textures. Note: For FBM 3D noise, the generation speed may be slower, typically taking around 15 minutes. Please wait patiently.Use in conjunction with burst in the Package Manager
